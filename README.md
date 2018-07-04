@@ -4,4 +4,5 @@ Automated API tests of the Twitter Statuses API using Java, Rest Assured, TestNG
 Test files are located in:
 twitterapi/twitterapis/src/test/java/estest/twitter/statuses/
 
-User will have to add their own Twitter authentication credentials to the Auth file if they want to run the code for themselves.
+Users will have to add their own Twitter authentication credentials to the Auth1 file if they want to run the code for themselves:
+twitterapi/twitterapis/src/test/java/estest/twitter/constants/Auth1.java
